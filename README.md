@@ -1,4 +1,5 @@
 # PunishUno
+# ![GitHub License](https://img.shields.io/github/license/ruzen42/harkpkg?style=for-the-badge)
 Clock!
 
 How to build and run!?
